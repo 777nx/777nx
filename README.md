@@ -1,4 +1,4 @@
-## 🙋 Hello
+## Hello Github
 
 欢迎来到我的主页 😝，github 是一个很有魅力的地方 🙌，有许许多多的大佬在这里活跃，咕咕 ✋~
 
@@ -11,6 +11,9 @@
 <a target="_blank" href="https://space.bilibili.com/507623389" title="青浅慕"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>
 
 ## 技术栈
+
+![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 
 <img src="https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java" alt="Java">
 
