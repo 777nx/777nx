@@ -10,7 +10,7 @@
 
 ✨ 欢迎到博客里调戏我！
 
-## 社交主页
+<!-- ## 社交主页
 
 <a target="_blank" href="https://www.777nx.cn" title="Fantasy的技术小站"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-blue"></a>
 
@@ -34,7 +34,7 @@
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
 
-![Vue](https://img.shields.io/badge/-Vue.js-3f745c?style=flat-square&logo=Vue.js)
+![Vue](https://img.shields.io/badge/-Vue.js-3f745c?style=flat-square&logo=Vue.js) -->
 
 ## 开源项目
 
