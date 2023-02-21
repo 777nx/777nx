@@ -48,7 +48,7 @@
 
 ## Github 活跃度
 
-[![777nx's GitHub stats](https://github-readme-stats.vercel.app/api?username=777nx)](https://github.com/anuraghazra/github-readme-stats)
+![777nx's GitHub stats](https://github-readme-stats.vercel.app/api?username=777nx&show_icons=true&theme=radical)
 
 ## Github 贡献图
 
