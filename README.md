@@ -1,8 +1,14 @@
 ## Hello Github
 
-欢迎来到我的主页 😝，github 是一个很有魅力的地方 🙌，有许许多多的大佬在这里活跃，咕咕 ✋~
+✨ 这里是 777nx ，一个编程小白（大二啦）
 
-但是记学习真的是一个很棒的习惯 💪，每次一次学习别人的东西转变成为自己的，都是一次成长，了解为什么要这么做，为什么不这么做 ⚡
+✨ 现在主要写写`Java`和`HTML`
+
+✨ ~~之后可能会用 Python 瞎搞一些东西，开始重学`C++`~~`C` yyds！面向寄存器编程万岁！
+
+✨ 然后这里是我的博客啦！[点这里进去踩一踩！](https://www.777nx.cn)，主要会更一些编程的东西，有时还会做点教程和写写日记~~
+
+✨ 欢迎到博客里调戏我！
 
 ## 社交主页
 
@@ -13,13 +19,21 @@
 ## 技术栈
 
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
+
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
+
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
+
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
+
 ![Vue](https://img.shields.io/badge/-Vue.js-3f745c?style=flat-square&logo=Vue.js)
 
 ## 开源项目
