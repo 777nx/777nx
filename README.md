@@ -40,7 +40,7 @@
 
 ## 开源项目
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=777nx&repo=777nx.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=777nx&repo=777nx.github.io&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 编程语言
 
