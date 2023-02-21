@@ -12,6 +12,8 @@
 
 ![777nx](https://count.getloli.com/get/@777nx)
 
+<hr>
+
 <!-- ## 社交主页
 
 <a target="_blank" href="https://www.777nx.cn" title="Fantasy的技术小站"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-blue"></a>
@@ -52,7 +54,7 @@
 
 ## Github 贡献图
 
-[![777nx's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=777nx)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![777nx's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=777nx&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **777nx/777nx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
