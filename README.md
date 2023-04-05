@@ -44,7 +44,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=777nx&repo=777nx.github.io&show_icons=true&theme=tokyonight)](https://github.com/777nx/777nx.github.io)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=777nx&repo=777nx.github.io&show_icons=true&theme=tokyonight)](https://github.com/777nx/CurlyBear)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=777nx&repo=CurlyBear&show_icons=true&theme=tokyonight)](https://github.com/777nx/CurlyBear)
 
 ## 编程语言
 
