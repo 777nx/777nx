@@ -44,6 +44,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=777nx&repo=777nx.github.io&show_icons=true&theme=tokyonight)](https://github.com/777nx/777nx.github.io)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=777nx&repo=777nx.github.io&show_icons=true&theme=tokyonight)](https://github.com/777nx/CurlyBear)
+
 ## 编程语言
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=777nx&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
