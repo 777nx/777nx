@@ -1,6 +1,6 @@
 ## Hello Github
 
-✨ 这里是 Fantasy ，一个编程小白（大二啦）
+✨ 这里是 Fantasy ，一个编程小白（大三啦）
 
 ✨ 现在主要写写 `Java` 和 `HTML`
 
