@@ -1,74 +1,54 @@
-## Hello Github
+<img align="right" src="https://count.getloli.com/get/@:777nx?theme=moebooru">
 
-✨ 这里是 Fantasy ，一个编程小白（大三啦）
+## 一只低调的贝果研究家—Fantasy <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
 
-✨ 现在主要写写 `Java` 和 `HTML`
+### 自我介绍
 
-✨ ~~之后可能会用 Python 瞎搞一些东西，开始重学 `C++`~~ `C` yyds！面向寄存器编程万岁！
+<div><img align="right" alt="GIF" src="https://z4a.net/images/2023/08/14/push.webp" width="300" height="100%" /></div>
 
-✨ 然后这里是我的博客啦！[点这里进去踩一踩！](https://www.777nx.cn)，主要会更一些编程的东西，有时还会做点教程和写写日记~~
+- 大家好，我是Fantasy，来自广东湛江
+- 目前是一名计算机在读本科生
+- 对数据结构与算法、前端、Java后端感兴趣
+- 欢迎光临我的Github 🍧
 
-✨ 阿符努力成为全栈工程师！
+### 社交主页
 
-✨ 欢迎到博客里调戏我！
+- <a href="https://www.777nx.cc"><img height="22" width="22" src="https://www.777nx.cn/favicon.ico"></a>：个人网站，访问量累计10万+
 
-![777nx](https://count.getloli.com/get/@777nx)
+### 技术栈
+![C#](https://img.shields.io/badge/-C%20Sharp-%23239120?style=flat&logo=C%20Sharp)
+![C语言](https://img.shields.io/badge/-C%E8%AF%AD%E8%A8%80-%2313c9ae?style=flat&logo=C&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-%23972fcd?style=flat&logo=OPENJDK)
+![ARM](https://img.shields.io/badge/-ARM-%23c9e735?style=flat&logo=ARM&logoColor=242424)
+![Linux](https://img.shields.io/badge/-Linux-%23fcc624?style=flat&logo=Linux&logoColor=242424)
+![PUG](https://img.shields.io/badge/-Pug-%23a86454?style=flat&logo=PUG&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
+![Hexo](https://img.shields.io/badge/-Hexo-%230e83cd?style=flat&logo=Hexo&logoColor=ffffff)\
+![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23ECD83E&color=%23ECD83E)
+![Node.js](https://img.shields.io/badge/-Node.js-%23579050?style=flat&logo=node.js&logoColor=ffffff)
+![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
 
-<!-- ## 社交主页
+### 开源项目
 
-<a target="_blank" href="https://www.777nx.cn" title="Fantasy的技术小站"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-blue"></a>
+[![](https://github-readme-stats.vercel.app/api/pin/?username=777nx&repo=777nx.github.io&theme=tokyonight)](https://github.com/777nx/777nx.github.io)
+&emsp;&emsp;
+[![](https://github-readme-stats.vercel.app/api/pin/?username=777nx&repo=not-doing-homework&theme=tokyonight)](https://github.com/777nx/not-doing-homework)
+<br>
 
-<a target="_blank" href="https://space.bilibili.com/507623389" title="青浅慕"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>
+### Github 状态图
+[![](https://activity-graph.herokuapp.com/graph?username=777nx&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![777nx's github stats](https://github-readme-stats.vercel.app/api?username=777nx&show_icons=true&theme=tokyonight)
 
-## 技术栈
+### Github 贡献图
+[![777nx's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=777nx&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
+<br>
 
-![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+### 投喂作者🍭🍭🍭
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+<a href="https://www.777nx.cn/personal/about/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者🍭" style="height: 40px !important;width: 145px !important;" ></a>
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
-
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
-
-![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
-
-![Vue](https://img.shields.io/badge/-Vue.js-3f745c?style=flat-square&logo=Vue.js) -->
-
-## 开源项目
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=777nx&repo=777nx.github.io&show_icons=true&theme=tokyonight)](https://github.com/777nx/777nx.github.io)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=777nx&repo=CurlyBear&show_icons=true&theme=tokyonight)](https://github.com/777nx/CurlyBear)
-
-## 编程语言
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=777nx&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-## Github 活跃度
-
-![777nx's GitHub stats](https://github-readme-stats.vercel.app/api?username=777nx&show_icons=true&theme=tokyonight)
-
-## Github 贡献图
-
-[![777nx's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=777nx&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!--
-**777nx/777nx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
