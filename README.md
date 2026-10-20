@@ -142,9 +142,9 @@
 
 <div align="center">
 
-<a href="https://www.777nx.cn/personal/about/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者" height="40" /></a>
+<img src="https://img.shields.io/badge/%E6%8A%95%E5%96%82%E4%BD%9C%E8%80%85-%E6%9A%82%E6%97%B6%E5%85%B3%E9%97%AD-b0b0b0?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="投喂暂时关闭" />
 
-**感谢每一份喜欢 🌱 最好的支持是点个 Star、来博客留个言。**
+**感谢每一份喜欢 🌱 打赏入口暂时关闭，最好的支持是点个 Star、来博客留个言。**
 
 </div>
 
