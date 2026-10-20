@@ -112,20 +112,29 @@ Vue 3 + Spring Boot 高并发答题平台，含 AI 出题与 SSE 实时通信。
 </tr>
 </table>
 
-## 📈 GitHub 数据看板 · 贡献图 · 活动曲线
+## 📈 GitHub 数据看板 · 贡献热力图 · 活动曲线 · 3D 贡献图
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=777nx&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=777nx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="165" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/777nx/777nx/main/assets/dashboard.svg" />
+  <img alt="GitHub 数据看板" src="https://raw.githubusercontent.com/777nx/777nx/main/assets/dashboard-light.svg" width="840" />
+</picture>
 
-<br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/777nx/777nx/main/assets/contrib-heatmap.svg" />
+  <img alt="贡献热力图" src="https://raw.githubusercontent.com/777nx/777nx/main/assets/contrib-heatmap-light.svg" width="840" />
+</picture>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=777nx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/777nx/777nx/main/assets/activity.svg" />
+  <img alt="活动曲线" src="https://raw.githubusercontent.com/777nx/777nx/main/assets/activity-light.svg" width="840" />
+</picture>
 
-<br />
-
-[![777nx's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=777nx&theme=react&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/777nx/777nx/main/profile-3d-contrib/night.svg" />
+  <img alt="3D 贡献图" src="https://raw.githubusercontent.com/777nx/777nx/main/profile-3d-contrib/day.svg" width="840" />
+</picture>
 
 </div>
 
