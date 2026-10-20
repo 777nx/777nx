@@ -1,54 +1,147 @@
-<img align="right" src="https://count.getloli.com/get/@:777nx?theme=moebooru">
+<div align="center">
 
-## 一只低调的贝果研究家—Fantasy <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
+# Hi, I'm Fantasy 🥯
 
-### 自我介绍
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2D9C72&center=true&vCenter=true&width=620&lines=Future+is+now+%F0%9F%8D%AD%F0%9F%8D%AD%F0%9F%8D%AD;%E4%BA%92%E8%81%94%E7%BD%91%E8%A1%8C%E4%B8%9A+%C2%B7+%E7%A8%8B%E5%BA%8F%E5%91%98" alt="typing" />
 
-<div><img align="right" alt="GIF" src="https://z4a.net/images/2023/08/14/push.webp" width="300" height="100%" /></div>
+<a href="https://www.777nx.cn"><img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-777nx.cn-3B82F6?style=for-the-badge&logo=hexo&logoColor=white" alt="blog" /></a>
+<a href="https://github.com/777nx"><img src="https://img.shields.io/badge/GitHub-777nx-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+<a href="https://www.777nx.cn/personal/about/"><img src="https://img.shields.io/badge/%E5%85%B3%E4%BA%8E%E6%88%91-About-0EA5E9?style=for-the-badge&logo=readme&logoColor=white" alt="about" /></a>
 
-- 大家好，我是Fantasy，来自广东湛江
-- 目前是一名计算机在读本科生
-- 对数据结构与算法、前端、Java后端感兴趣
-- 欢迎光临我的Github 🍧
+<br />
 
-### 社交主页
+<img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%E8%AE%BF%E9%97%AE-10%E4%B8%87%2B-3B82F6?style=flat-square&logo=googleanalytics&logoColor=white" />
+<img src="https://img.shields.io/badge/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93-70%2B-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/%E6%96%B9%E5%90%91-AI+%E5%85%A8%E6%A0%88-0EA5E9?style=flat-square&logo=openai&logoColor=white" />
 
-- <a href="https://www.777nx.cc"><img height="22" width="22" src="https://www.777nx.cn/favicon.ico"></a>：个人网站，访问量累计10万+
+</div>
 
-### 技术栈
-![C#](https://img.shields.io/badge/-C%20Sharp-%23239120?style=flat&logo=C%20Sharp)
-![C语言](https://img.shields.io/badge/-C%E8%AF%AD%E8%A8%80-%2313c9ae?style=flat&logo=C&logoColor=ffffff)
+---
+
+## 🧑‍💻 关于我
+
+<div><img align="right" alt="coding" src="https://z4a.net/images/2023/08/14/push.webp" width="300" /></div>
+
+- 大家好，我是 **Fantasy**，来自广东湛江
+- 目前是一名**程序员** —— 白天和业务、代码打交道，晚上和编辑器、终端打交道
+- 长期感兴趣的方向：**前端体验** · **Java 后端** · **AI 应用开发**
+- 业余维护个人小站，喜欢把「要是有个工具就好了」的念头，一点点做成能用的东西
+- 欢迎来我的 GitHub 逛逛，也欢迎来博客坐坐 🍧
+
+<br clear="right" />
+
+## 🔭 我在忙什么
+
+- 🤖 折腾 AI Agent：用 Spring Boot + LangChain4j 做智能体、RAG、Tool Calling 与 MCP 集成
+- 🌐 打理个人小站 [**777nx.cn**](https://www.777nx.cn)：访问量 10 万+，持续打磨内容与体验
+- 🧩 写全栈实战：外卖、答题、商城、云图库……能落地的项目，尽量自己搓一遍
+- 📚 刷算法、补工程基础，把「会用」慢慢变成「能讲清楚、能复用」
+
+## 🛠️ 技术栈
+
+**后端 / AI**
+
 ![Java](https://img.shields.io/badge/-Java-%23972fcd?style=flat&logo=OPENJDK)
-![ARM](https://img.shields.io/badge/-ARM-%23c9e735?style=flat&logo=ARM&logoColor=242424)
-![Linux](https://img.shields.io/badge/-Linux-%23fcc624?style=flat&logo=Linux&logoColor=242424)
-![PUG](https://img.shields.io/badge/-Pug-%23a86454?style=flat&logo=PUG&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
-![Hexo](https://img.shields.io/badge/-Hexo-%230e83cd?style=flat&logo=Hexo&logoColor=ffffff)\
-![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css3)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=flat&logo=SpringBoot&logoColor=ffffff)
+![LangChain4j](https://img.shields.io/badge/-LangChain4j-%231C3C3C?style=flat&logo=LangChain&logoColor=ffffff)
+![C#](https://img.shields.io/badge/-C%20Sharp-%23239120?style=flat&logo=C%20Sharp)
+![C](https://img.shields.io/badge/-C-%2313c9ae?style=flat&logo=C&logoColor=ffffff)
+
+**前端 / Web**
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23ECD83E&color=%23ECD83E)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%234FC08D?style=flat&logo=vuedotjs&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css3)
 ![Node.js](https://img.shields.io/badge/-Node.js-%23579050?style=flat&logo=node.js&logoColor=ffffff)
+![uni-app](https://img.shields.io/badge/-uni--app-%232B9939?style=flat&logo=dcloud&logoColor=ffffff)
+![Hexo](https://img.shields.io/badge/-Hexo-%230e83cd?style=flat&logo=Hexo&logoColor=ffffff)
+![Pug](https://img.shields.io/badge/-Pug-%23a86454?style=flat&logo=PUG&logoColor=ffffff)
+
+**工程 / 工具**
+
+![Linux](https://img.shields.io/badge/-Linux-%23fcc624?style=flat&logo=Linux&logoColor=242424)
 ![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
+![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat&logo=Docker&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
+![Markdown](https://img.shields.io/badge/-Markdown-%23000000?style=flat&logo=Markdown&logoColor=ffffff)
 
-### 开源项目
+## 📦 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=777nx&repo=777nx.github.io&theme=tokyonight)](https://github.com/777nx/777nx.github.io)
-&emsp;&emsp;
-[![](https://github-readme-stats.vercel.app/api/pin/?username=777nx&repo=not-doing-homework&theme=tokyonight)](https://github.com/777nx/not-doing-homework)
-<br>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Github 状态图
-[![](https://activity-graph.herokuapp.com/graph?username=777nx&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![777nx's github stats](https://github-readme-stats.vercel.app/api?username=777nx&show_icons=true&theme=tokyonight)
+### 🤖 rabbit-ai-agent
 
-### Github 贡献图
-[![777nx's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=777nx&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Spring Boot 3 + LangChain4j 的 AI Agent 实战：RAG、ReAct、工具调用与 MCP。
 
-<br>
+[源码](https://github.com/777nx/rabbit-ai-agent)
 
-### 投喂作者🍭🍭🍭
+</td>
+<td width="50%" valign="top">
 
-<a href="https://www.777nx.cn/personal/about/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者🍭" style="height: 40px !important;width: 145px !important;" ></a>
+### 🧠 ai-code-helper
 
-<br>
+AI 编程学习与求职辅导助手，覆盖流式对话、RAG、Tool Calling、Vue 前端。
+
+[源码](https://github.com/777nx/ai-code-helper)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📝 rabbitdada
+
+Vue 3 + Spring Boot 高并发答题平台，含 AI 出题与 SSE 实时通信。
+
+[源码](https://github.com/777nx/rabbitdada)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 777nx.github.io
+
+个人网站源码，访问量 10 万+。
+
+[源码](https://github.com/777nx/777nx.github.io) · [在线访问](https://www.777nx.cn)
+
+</td>
+</tr>
+</table>
+
+## 📈 GitHub 数据看板 · 贡献图 · 活动曲线
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=777nx&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=777nx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="165" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=777nx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br />
+
+[![777nx's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=777nx&theme=react&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+## 🍭 投喂作者
+
+<div align="center">
+
+<a href="https://www.777nx.cn/personal/about/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者" height="40" /></a>
+
+**感谢每一份喜欢 🌱 最好的支持是点个 Star、来博客留个言。**
+
+</div>
+
+<div align="center">
+<br />
+<img src="https://count.getloli.com/get/@:777nx?theme=moebooru" alt="visitors" />
+<br /><br />
+<sub>「 一只低调的贝果研究家 🥯 」— 最后更新于 2026-10-20</sub>
+</div>
