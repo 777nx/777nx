@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 关于我
 
-<div><img align="right" alt="coding" src="https://z4a.net/images/2023/08/14/push.webp" width="300" /></div>
+<div><img align="right" alt="coding" src="https://lsky.777nx.cn/i/2023/04/27/631f3e79ece3d.webp" width="300" /></div>
 
 - 大家好，我是 **Fantasy**，来自广东湛江
 - 目前是一名**程序员** —— 白天和业务、代码打交道，晚上和编辑器、终端打交道
