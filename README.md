@@ -73,33 +73,24 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 rabbit-ai-agent
+### 🖼️ rabbit-picture-backend
 
-Spring Boot 3 + LangChain4j 的 AI Agent 实战：RAG、ReAct、工具调用与 MCP。
+基于 Spring Boot + Redis + COS + AI + WebSocket 的企业级智能协同云图库平台。
 
-[源码](https://github.com/777nx/rabbit-ai-agent)
+[后端](https://github.com/777nx/rabbit-picture-backend) · [前端](https://github.com/777nx/rabbit-picture-frontend)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 ai-code-helper
+### 🧬 rabbit-ai-code-mother
 
-AI 编程学习与求职辅导助手，覆盖流式对话、RAG、Tool Calling、Vue 前端。
+基于 Spring Boot 3 + LangChain4j + Vue 3 的 AI 代码生成平台：流式生成、可视化编辑、一键部署。
 
-[源码](https://github.com/777nx/ai-code-helper)
+[源码](https://github.com/777nx/rabbit-ai-code-mother)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 📝 rabbitdada
-
-Vue 3 + Spring Boot 高并发答题平台，含 AI 出题与 SSE 实时通信。
-
-[源码](https://github.com/777nx/rabbitdada)
-
-</td>
 <td width="50%" valign="top">
 
 ### 🌐 777nx.github.io
@@ -107,6 +98,15 @@ Vue 3 + Spring Boot 高并发答题平台，含 AI 出题与 SSE 实时通信。
 个人网站源码，访问量 10 万+。
 
 [源码](https://github.com/777nx/777nx.github.io) · [在线访问](https://www.777nx.cn)
+
+</td>
+<td width="50%" valign="top">
+
+### 📤 PicGoDemo
+
+基于 GitHub 仓库的图床方案，用于托管网站静态资源。
+
+[源码](https://github.com/777nx/PicGoDemo) · [图床](https://picbed.777nx.cn)
 
 </td>
 </tr>
